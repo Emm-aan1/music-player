@@ -111,8 +111,7 @@ h3 {
 
   .img-container {
     top: -25px;
-    left: 0;
-    right: 0;
+    left: auto;
   }
 
   h2 {
